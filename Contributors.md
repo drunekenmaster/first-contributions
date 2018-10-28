@@ -4,6 +4,7 @@
 - [Mahdi HB](https://github.com/mhb8898)
 - [diproIV]
 - [Pushkar](https://github.com/linton-dawson)
+- [Rahul] (www.github.com/drunekenmaster)
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Lauren Mayers](https://github.com/laurenmayers)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
